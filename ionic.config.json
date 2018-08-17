@@ -1,0 +1,7 @@
+{
+  "name": "navegacionBlank",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
